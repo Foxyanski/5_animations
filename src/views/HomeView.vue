@@ -39,6 +39,7 @@ const removePerson = (name) => {
 .container {
   max-width: 300px;
   margin: auto;
+  transform: scale(1.7);
 
   input {
     width: 100%;

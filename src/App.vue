@@ -81,6 +81,7 @@ header {
 .container {
   max-width: 300px;
   margin: 10px auto;
+  transform: scale(1.7);
 
   a {
     margin-right: 1rem;

@@ -13,10 +13,14 @@
 <style>
 /* @media (min-width: 1024px) { */
 .about {
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
   /* display: flex; */
   align-items: center;
   margin: 10px auto;
+  justify-content: center;
+  font-size: 17pt;
 }
 /* } */
 </style>
